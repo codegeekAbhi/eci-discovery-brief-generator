@@ -8,6 +8,8 @@ Converts raw client discovery notes into structured briefs, risk scores, and
 draft Statements of Work - reducing handoff friction between client-facing PMs
 and offshore delivery teams.
 
+live link : https://eci-discovery-brief-generator.streamlit.app/
+
 ---
 
 ## The Problem It Solves
